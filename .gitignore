@@ -1,0 +1,32 @@
+# Byte-compiled / virtual env
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+.venv/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# PyCharm
+.idea/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Models and outputs
+models/
+*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+
